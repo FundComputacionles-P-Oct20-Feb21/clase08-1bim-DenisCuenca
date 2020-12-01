@@ -5,6 +5,6 @@
 5. Fin si
 6. Fin
 // Error: No se inicializa la variable que permita el 
-// ingreso al proceso repetitivo
+// ingreso al condicional 
 
 //
