@@ -11,5 +11,5 @@
 11. Escribir "El sueldo es :" + sueldo
 12.  Fin
 
-// Error:  EL valor asignado a edad (21), no corresponde a
+// EL valor asignado a edad (21), no corresponde a
 // la condicion de ninguno de los procesos 'Si'
