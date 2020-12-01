@@ -4,3 +4,7 @@
 4.   Escribir "La edad ingresada pertenece a mayor de edad"
 5. Fin si
 6. Fin
+// Error: No se inicializa la variable que permita el 
+// ingreso al proceso repetitivo
+
+//
