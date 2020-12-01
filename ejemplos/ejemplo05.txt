@@ -31,4 +31,4 @@
 31. Fin
 
 // Error: el dato ingresado para 'op' no corresponde a ningun caso del 
-// proceso Dependiendo_De
+// proceso Dependiendo_De; no se calculará las variables resultado ni tipo
