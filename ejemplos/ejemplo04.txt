@@ -23,7 +23,6 @@
 23. Escribir "El valor total a pagar es: " + valorTotal
 24. Fin
 
-// La salida será: 
-// El valor total a pagar es: 23
-// Nunca se inicializa la variable para evaluar la condicion del condicional.
-// El programa no calcua el valor a pagar menos el descuento 
+
+// Error: Nunca se inicializa la variable para evaluar
+// la condicion del condicional.

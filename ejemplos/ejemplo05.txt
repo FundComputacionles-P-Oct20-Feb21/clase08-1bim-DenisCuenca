@@ -1,4 +1,4 @@
-1. Inicio
+﻿1. Inicio
 2.  op, i[0,n]
 3.  valor1, i[0,n]
 4.  valor2, i[0,n]
@@ -29,3 +29,6 @@
 29. Fin_Dependiendo_De
 30. Escribir "El resultado de la operación " + tipo + "es :" + resultado
 31. Fin
+
+// Error: el dato ingresado para 'op' no corresponde a ningun caso del 
+// proceso Dependiendo_De
