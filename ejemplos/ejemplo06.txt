@@ -7,3 +7,6 @@
 9.  Fin Mientras"
 10. << n
 11. Fin
+
+// la salida será:
+// 2
